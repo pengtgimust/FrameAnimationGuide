@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <ImageView android:id="@+id/animationIV2"  
+            android:layout_width="wrap_content"  
+            android:layout_height="wrap_content"  
+            android:padding="5px"  
+            android:src="@drawable/animation1"/>
+    
+    <ImageView
+        android:layout_marginTop="574dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imgView_immediate_experience"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/selector_ic_open" />
+
+</RelativeLayout>

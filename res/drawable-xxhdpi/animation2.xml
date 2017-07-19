@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:oneshot="false">
+    <item android:drawable="@drawable/word1" android:duration="700"></item> 
+    <item android:drawable="@drawable/word2" android:duration="500"></item> 
+    <item android:drawable="@drawable/word3" android:duration="100"></item> 
+    <!-- <item android:drawable="@drawable/word4" android:duration="100"></item>  -->
+    <item android:drawable="@drawable/word5" android:duration="100"></item> 
+    
+<!--     <item android:drawable="@drawable/word6" android:duration="100"></item> 
+    <item android:drawable="@drawable/word7" android:duration="100"></item> 
+    <item android:drawable="@drawable/word8" android:duration="100"></item> 
+    <item android:drawable="@drawable/word9" android:duration="100"></item> 
+    <item android:drawable="@drawable/word10" android:duration="100"></item> 
+    
+    <item android:drawable="@drawable/word11" android:duration="100"></item>  -->
+    <item android:drawable="@drawable/word12" android:duration="1000"></item> 
+    <item android:drawable="@drawable/word13" android:duration="50"></item> 
+    <!-- <item android:drawable="@drawable/word14" android:duration="50"></item> --> 
+    <item android:drawable="@drawable/word15" android:duration="50"></item> 
+    
+    <item android:drawable="@drawable/word16" android:duration="2200"></item> 
+    <item android:drawable="@drawable/word17" android:duration="80"></item> 
+    <!-- <item android:drawable="@drawable/word18" android:duration="80"></item> 
+    <item android:drawable="@drawable/word19" android:duration="80"></item>  -->
+    <item android:drawable="@drawable/word20" android:duration="80"></item> 
+    
+    <!-- <item android:drawable="@drawable/word21" android:duration="80"></item> --> 
+    <item android:drawable="@drawable/word22" android:duration="80"></item> 
+    <!-- <item android:drawable="@drawable/word23" android:duration="80"></item> 
+    <item android:drawable="@drawable/word24" android:duration="80"></item>  -->
+    <item android:drawable="@drawable/word25" android:duration="80"></item>
+    
+    <!-- <item android:drawable="@drawable/word26" android:duration="80"></item>  -->
+    <item android:drawable="@drawable/word27" android:duration="80"></item> 
+    <!-- <item android:drawable="@drawable/word28" android:duration="80"></item> 
+    <item android:drawable="@drawable/word29" android:duration="80"></item>  -->
+    <item android:drawable="@drawable/word30" android:duration="80"></item>
+     
+    <!-- <item android:drawable="@drawable/word31" android:duration="80"></item> 
+    <item android:drawable="@drawable/word32" android:duration="80"></item>  -->
+    <item android:drawable="@drawable/word33" android:duration="80"></item> 
+    <!-- <item android:drawable="@drawable/word34" android:duration="80"></item>  -->
+    <item android:drawable="@drawable/word35" android:duration="80"></item> 
+    
+    <!-- <item android:drawable="@drawable/word36" android:duration="80"></item> 
+    <item android:drawable="@drawable/word37" android:duration="80"></item> --> 
+    <item android:drawable="@drawable/word38" android:duration="80"></item> 
+    <!-- <item android:drawable="@drawable/word39" android:duration="80"></item> --> 
+    <item android:drawable="@drawable/word40" android:duration="80"></item> 
+    
+    <!-- <item android:drawable="@drawable/word41" android:duration="200"></item> --> 
+    <!-- <item android:drawable="@drawable/word42" android:duration="200"></item> 
+    <item android:drawable="@drawable/word43" android:duration="200"></item>  -->
+    <item android:drawable="@drawable/word44" android:duration="200"></item> 
+    <item android:drawable="@drawable/word45" android:duration="1200"></item> 
+
+</animation-list>
